@@ -1,1 +1,3 @@
 These are the new changes to hello world
+
+test of the vs code message
